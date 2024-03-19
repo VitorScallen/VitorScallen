@@ -5,8 +5,8 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vitorscallen)
 [![instagam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://www.instagram.com/vitorscallen_/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorscallen77&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorscallen77&layout=compact&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorscallen77&show_icons=true&theme=highcontrast&cache=none)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorscallen77&layout=compact&theme=highcontrast&cache=none)
 
 ### Tecnologias
 
