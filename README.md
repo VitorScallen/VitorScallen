@@ -8,12 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorscallen77&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorscallen77&layout=compact&theme=highcontrast)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Tecnologias
 
 <div style="display: inline-block;">
@@ -28,4 +22,10 @@
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
-Buscando sempre melhorar minhas skills
+<h4>Buscando sempre melhorar minhas skills</h4>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
+</picture>
