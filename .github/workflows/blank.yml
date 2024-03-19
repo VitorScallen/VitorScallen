@@ -30,6 +30,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Adiciona a data e o hash da última commitagem ao README.md
+      - name: Update README with latest commit information
+        run: |
+          echo "Última commitagem: $(git log -1 --format='%cd (%h)' --date=short)" > README.md
+          git add README.md
+          git commit -m "Atualizando a commitagem no README" || true
+
       # Envie o conteúdo de <build_dir> para uma branch
       # O conteúdo estará disponível em https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, ou como uma página do GitHub
       - name: Push GitHub contribution grid snake SVG to the output branch
