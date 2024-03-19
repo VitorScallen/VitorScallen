@@ -8,8 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorscallen77&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorscallen77&layout=compact&theme=highcontrast)
 
-![Snake animation](https://github.com/vitorscallen77/vitorscallen77/blob/output/github-contribution-grid-snake.svg?theme=highcontrast)
-
 ### Tecnologias
 
 <div style="display: inline-block;">
