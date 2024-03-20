@@ -21,6 +21,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Clona o repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Gera um jogo da cobrinha a partir do gráfico de contribuições de um usuário do GitHub (<github_user_name>), e gera uma animação SVG em <svg_out_path>
       - name: Generate GitHub contribution grid snake SVG
         uses: Platane/snk/svg-only@v3
@@ -36,6 +40,7 @@ jobs:
           echo "Última commitagem: $(git log -1 --format='%cd (%h)' --date=short)" > README.md
           git add README.md
           git commit -m "Atualizando a commitagem no README" || true
+        shell: bash
 
       # Envie o conteúdo de <build_dir> para uma branch
       # O conteúdo estará disponível em https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, ou como uma página do GitHub
