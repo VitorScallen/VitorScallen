@@ -1,0 +1,22 @@
+name: Update GitHub Profile
+
+on:
+  push:
+    branches:
+      - main  # Altere para o nome da sua branch principal
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update profile
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: vitorscallen77  # Seu nome de usuário do GitHub
+          update_banner: yes
+          template: classic
+
