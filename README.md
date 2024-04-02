@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorscallen_/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScallen77&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScallen77&layout=compact&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScallen77&layout=compact&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
 
 ### Tecnologias
 
