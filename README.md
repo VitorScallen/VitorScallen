@@ -29,3 +29,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
 </picture>
+
+const fs = require('fs');
+const https = require('https');
+
+const username = 'vitorscallen77';
+
+const statsURL = `https://api.github.com/users/${username}`;
+
+https.get(statsURL, (res) => {
+  let data = '';
+
+  res.on('data', (chunk) => {
+    data += chunk;
+  });
+
+  res.on('end', () => {
+    const stats = JSON.parse(data);
+
+    const readme = `# My GitHub Stats\n\n![GitHub Stats](https://github-readme-stats.vercel.app/api?username=${username}&theme=highcontrast)\n\n`;
+
+    fs.writeFileSync('README.md', readme);
+  });
+}).on('error', (err) => {
+  console.error(err);
+});
