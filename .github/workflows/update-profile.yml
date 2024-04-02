@@ -20,7 +20,7 @@ jobs:
         run: node update-readme.js
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "scallen199@gmail.com"
+          git config --local user.name "VitorScallen77"
           git commit -am "Update README with GitHub stats" || true
           git push
