@@ -1,22 +1,26 @@
-name: Update GitHub Profile
+name: Update README
 
 on:
   push:
     branches:
-      - main  # Altere para o nome da sua branch principal
+      - main
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Update profile
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: vitorscallen77  # Seu nome de usuário do GitHub
-          update_banner: yes
-          template: classic
-
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install
+      - name: Update README
+        run: node update-readme.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update README with GitHub stats" || true
+          git push
