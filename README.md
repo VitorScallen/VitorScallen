@@ -7,7 +7,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScallen77&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScallen77&layout=compact&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
 
-### Tecnologias
+### Tecnologias 
 
 <div style="display: inline-block;">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
