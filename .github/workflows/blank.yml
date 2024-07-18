@@ -16,6 +16,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: vitorscallen77  # Seu nome de usuário do GitHub
+          user: vitorscallen  # Seu nome de usuário do GitHub
           update_banner: yes
           template: classic
