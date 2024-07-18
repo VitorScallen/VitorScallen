@@ -4,8 +4,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vitorscallen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorscallen_/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScallen&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScallen&layout=compact&theme=highcontrast)](https://github.com/VitorScallen77/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScallen&theme=highcontrast)](https://github.com/VitorScallen/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScallen&layout=compact&theme=highcontrast)](https://github.com/VitorScallen/github-readme-stats)
 ### Tecnologias 
 <div style="display: inline-block;">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen77/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorscallen77/vitorscallen77/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorscallen/vitorscallen/output/github-contribution-grid-snake.svg">
 </picture>
