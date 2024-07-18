@@ -1,9 +1,9 @@
-name: VitorScallen
+name: Update README on Commit
 
 on:
   push:
     branches:
-      - main
+      - '**'
 
 jobs:
   update-readme:
