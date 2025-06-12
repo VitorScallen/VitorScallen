@@ -8,14 +8,13 @@
 
   </div>
   <div align="center" >
-<a href="https://skillicons.dev"   >
+    <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,eclipse,idea,cs,dotnet,java,spring,github,postman,mongodb,postgres,mysql" />
-</a>
+    </a>
   <br />
-      <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=vitorscallen&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+      <div align="center" ></div>
   </div>  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorscallen/vitorscallen/output/github-contribution-grid-snake.svg">
